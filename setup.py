@@ -27,7 +27,7 @@ setup(
     license='MIT',
     author='Ian Ward',
     author_email='ian@excess.org',
-    url='https://github.com/ckan/ckanapi',
+    url='https://github.com/storytracer/ckanapi',
     packages=[
         'ckanapi',
         'ckanapi.tests',
